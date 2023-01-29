@@ -6,7 +6,7 @@ public static void main(String[] args)
 {
 System.out.println("Hi");	
 System.out.println("Hello123");	
-System.out.println("Sunday");
+System.out.println("Monday");
 
 }
 }
